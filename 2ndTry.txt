@@ -1,1 +1,2 @@
 This is the second file i am trying to push to git hub
+I am updating the 2nd file 
