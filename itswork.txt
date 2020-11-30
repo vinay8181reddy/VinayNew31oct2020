@@ -1,7 +1,4 @@
 Yes, i am able to push text file from ubuntu to github repo
 Using this same file i am able to update back to ubuntu server
 
-trying with branchs. 
 
-in main branch
- 
